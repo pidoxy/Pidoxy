@@ -9,8 +9,7 @@ I am a frontend developer with a specialization in JavaScript || React...Feel fr
 # Skills
 * JavaScript, CSS & HTML
 * React.js 
-* UX / UI fundamental knowledge, creating Figma designs
-* 
+* UI / UX fundamental knowledge, creating Figma designs
 
 # Upcomming skills
 * Next.js
