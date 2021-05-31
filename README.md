@@ -21,7 +21,8 @@ I am a frontend developer with a specialization in JavaScript || React...Feel fr
 
    My portfolio is coming 🔜 🔥😇
   
-
+<!-- ### [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pidoxy)](https://github.com/pidoxy/github-readme-stats)
+ -->
 <!--
 Here are some ideas to get you started:
 
