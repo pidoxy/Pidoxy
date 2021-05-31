@@ -17,12 +17,10 @@ I am a frontend developer with a specialization in JavaScript || React...Feel fr
 * Node.js
 
 
-**I'd open to becoming friends and would love to chat with you!**
+**I'm open to becoming friends and would love to chat with you!**
 
 
-   My portfolio is coming 🔜 🔥
-
-### Thanks for your attention 😇
+   My portfolio is coming 🔜 🔥😇
   
 
 <!--
