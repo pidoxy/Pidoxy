@@ -11,6 +11,9 @@ I am a frontend developer with a specialization in JavaScript || React...Feel fr
 * React.js 
 * UI / UX fundamental knowledge, creating Figma designs
 * Next.js
+* Node js
+* Python
+* Solidity
 
 
 
