@@ -1,4 +1,4 @@
-### Hi there! I'm Emmanuel. 👋🏾
+### Hi there! I'm Pidoxy. 👋🏾
 
 <!--
 **pidoxy/pidoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
