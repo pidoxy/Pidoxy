@@ -5,8 +5,7 @@ I am Emmanuel Idoko - Pidoxy.
 
 ### Whoami?
 - The builder of things, the thinker of ideas, Product Developer
-- curiousity or creativity
-- before deku, there was Feranmi
+- curiosity or creativity
 
 ### Technology Stacks
 - Language: Javascript, Python, C
@@ -16,7 +15,7 @@ I am Emmanuel Idoko - Pidoxy.
 
 ## <u>How to Contact Me</u>
 
-I am also available and open to contacted on major social media channels and mails.
+I am also available and open to contact on major social media channels and emails.
 
 - Gmail: [Pidoxy's Mail](mailto:eemmanuel.idoko@gmail.com)
 - Twitter: [Pidoxy](https://twitter.com/pidoxy_)
