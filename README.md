@@ -3,7 +3,7 @@
 ## Pidoxy 👤
 I am Emmanuel Idoko - Pidoxy.
 
-### Whoami?
+### Who am I?
 - The builder of things, the thinker of ideas, Product Developer
 - curiosity or creativity
 
